@@ -1,0 +1,52 @@
+.ak-gradientform-wrapper{
+    padding: 15px;
+}
+.ak-gradientform-controls{
+    display: inline-block;
+    width: 50%;
+}
+
+.ak-gradientform-colorpicker{
+    margin-bottom: 20px;
+}
+
+.ak-preview-wrapper{
+    background-image: url('../img/windmill.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 420px;
+    width: 575px;
+    float: right;
+}
+
+.ak-gradient-holder{
+    height: 100%;
+}
+
+.ak-gradientform-wrapper .colorpicker-element{
+	position: relative;
+    width: 180px;
+}
+
+.ak-gradientform-wrapper .colorpicker-element input{    
+    width: 100%;
+    box-sizing: border-box;
+    padding: 3px;
+}
+
+.ak-gradientform-wrapper .colorpicker.dropdown-menu{
+	position: absolute;
+	background: #fff;
+}
+
+.ak-gradientform-wrapper .colorpicker-element .input-group-addon{
+	position: absolute;
+	right: 0px;
+    border: 1px solid #a9a9a9
+}
+
+.ak-gradientform-wrapper .colorpicker-element .input-group-addon i{
+	width: 23px;
+	height: 23px;
+}
