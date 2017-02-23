@@ -1,0 +1,22 @@
+{
+  "name": "knockout-gradient-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "knockout",
+    "gradient"
+  ],
+  "author": "Andriy Kladochny",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-changed": "^2.0.0",
+    "gulp-debug": "^3.1.0",
+    "gulp-spsave": "^3.0.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
